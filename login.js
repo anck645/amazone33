@@ -1,5 +1,5 @@
 function login(){
   console.log("Login successfully.")
-  let email = "nikhi@gmail.com";
+  let email = "nikhila@gmail.com";
   console.log(email);
 }
